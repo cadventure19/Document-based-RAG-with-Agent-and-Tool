@@ -15,13 +15,13 @@ It allows you to:
 ## 📂 Project Structure
 
 
+📂 Project Structure
 ├── src/
-│ ├── rag_agent.py # main agent and tools
-│ ├── utils.py # helper functions
-│ └── book/
-       |
-       |odyssey.txt
-
+│   ├── rag_agent.py        # main agent and tools
+│   ├── utils.py            # helper functions
+│   └── book/
+│       └── odyssey.txt
+│
 ├── requirements.txt
 ├── README.md
 └── example_queries.md
